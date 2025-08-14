@@ -20,7 +20,7 @@ The mock server hosts HTML versions of a specific website. However, the original
 
 The HTML documents used in this project are based on the structure of the following website:
 
-> **[WitchCultTranslations]((https://witchculttranslation.com/))**
+> **[WitchCultTranslations](https://witchculttranslation.com/)**
 
 **Disclaimer**: This project uses a modified version of the site's HTML structure solely for testing purposes. The content has been altered to ensure no copyrighted material is used or distributed. This project is not affiliated with or endorsed by the original website.
 
@@ -30,7 +30,7 @@ The HTML documents used in this project are based on the structure of the follow
 
 This server is a companion component to the main web scraping project. For more information, including how to use this mock server in your tests, please visit the main repository:
 
-[**https://github.com/your-username/your-webscraping-project**]((https://github.com/Playerrl-ux/Multi-Thread-WebScrapping))
+[**https://github.com/Playerrl-ux/Multi-Thread-WebScrapping**](https://github.com/Playerrl-ux/Multi-Thread-WebScrapping)
 
 ---
 
